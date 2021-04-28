@@ -1,0 +1,20 @@
+span{
+    margin: 20px;
+    padding: 20px
+}
+div.aqui{
+    font-weight: bold;
+    margin: 20px;
+    padding: 20px; 
+    border: 2px solid greenyellow;    
+}
+p{
+    margin: inherit;
+    border: inherit;
+}
+.coro{
+    color: cornflowerblue;
+}
+a[href] {
+    background-color: cornflowerblue;
+}
